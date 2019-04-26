@@ -1,8 +1,8 @@
-# My Resume
+# 卞翔的简历
 
 [https://bianxiang.github.io/](https://bianxiang.github.io/)
 
-## Introduction
+## 介绍
 
 风格参考 @Ovilia @joyeecheung @lishengzxc
 
